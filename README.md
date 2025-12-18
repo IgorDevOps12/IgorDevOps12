@@ -1,16 +1,26 @@
-## Hi there 👋
+# Igor DevOps
 
-<!--
-**IgorDevOps12/IgorDevOps12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre
+O devops 12
 
-Here are some ideas to get you started:
+## Áreas de atuação
+Assistente de desenvolvimento backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+- Linguagens: C, C++, Python, Bash, JAVA
+- DevOps: Docker, CI/CD
+- Sistemas: Linux
+- Versionamento: Git
+
+## Interesses
+- Computação de baixo nível
+- Performance e eficiência
+- Arquitetura de sistemas
+
+## Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorDevOps12&show_icons=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDevOps12&layout=compact)
+
+## Contato
+- GitHub: https://github.com/IgorDevOps12
